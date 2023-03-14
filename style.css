@@ -1,0 +1,111 @@
+.a{
+    height: 70px;
+    width: 100%;
+    background-color:none;
+    float: left;
+}
+    .a li{
+    width: 10%;
+    color: white;
+    list-style-type: none;
+    display: inline-block;
+    background-color:black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 70px;
+    text-align: center;
+    font-size: large;
+
+}
+.b{
+    height: 70px;
+    width: 100%;
+    background-color:pink;
+    float: left;  
+}
+.dd{
+    padding: 10px;
+}
+.dd li{
+    color: blue;
+    list-style-type: none;
+    background-color: black;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.c{
+    height: 200px; 
+    width: 200%; 
+    float: left;
+    margin: 10px;
+}
+.d{
+    height: 200px;
+     width:10%;
+     float: left;
+     margin-left: 50px;
+}
+
+.e{
+    height: 200px;
+     width:10%;
+     float: left;
+      margin-left: 50px;
+}
+.f{
+    height: 100px;
+    width: 100%; 
+    float: left;
+    font-size: 30px;
+}
+
+
+.g{
+    height: 100px; 
+    width:20%;
+    float: left; 
+    margin-left: 50px;
+}
+
+marquee{
+    height: 80px;
+    background-color: black;
+}
+.h1{
+    color: white;
+}
+.h{
+    height: 400px;
+    width: 100%;
+    background-color: violet;
+    float: left;
+}
+.i{
+    height: 400px;
+    width:33.33%;
+    background-color:green;
+    float: left;
+}
+.j{
+    height: 200px;
+    width:50% ;
+    background-color: yellow;
+     float: left;
+}
+.k{
+    height: 400px;
+    width:33.33%;
+    background-color:gray;
+    float: left;
+}
+.l{
+    height: 200px;
+    width:50% ;
+    background-color: white; 
+    float: left;
+}
+ 
+  
+
+ 
